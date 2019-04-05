@@ -15,7 +15,7 @@ Kiamichi Watershed in response to water rights being sold to Oklahoma City, Okla
       install.packages("GISTools")
       install.packages("varhandle")
       install.packages("remotes")
-      install.packages("snakecase)
+      install.packages("snakecase")
       ```
   - [Data]: 
     * [Shapefiles](https://onedrive.live.com/?id=932BC1BE639384EE%2123541&cid=932BC1BE639384EE)
