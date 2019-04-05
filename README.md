@@ -3,7 +3,7 @@
 This repository is for statistical testing on Qualtrics data. This Qualtrics data represents ecosystem services perception in the 
 Kiamichi Watershed in response to water rights being sold to Oklahoma City, Oklahoma.
 
-# Codes
+# Scripts
 **[surveyLocations.R]:**
   - Plots the location of where each surveyor took their survey. There is a national plot and local (state of Oklahoma) plot.
   - [R Package Installation]:
