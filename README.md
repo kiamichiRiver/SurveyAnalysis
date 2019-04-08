@@ -6,7 +6,8 @@ Kiamichi Watershed in response to water rights being sold to Oklahoma City, Okla
 
 # Scripts
 **[surveyLocations.R]:**
-  - Plots the location of where each surveyor took their survey. There is a national plot and local (state of Oklahoma) plot.
+  - Downloads the qualtrics data for online surveys and mturk surveys. Plots the location of where each surveyor took their survey.
+    There is a national plot and local (state of Oklahoma) plot.
   - [R Package Installation]:
       ```
       install.packages("sp")
