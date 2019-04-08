@@ -20,7 +20,7 @@ Kiamichi Watershed in response to water rights being sold to Oklahoma City, Okla
       install.packages("snakecase")
       ```
   - [Data]: 
-    * [Shapefiles](https://onedrive.live.com/?id=932BC1BE639384EE%2123655&cid=932BC1BE639384EE)
+    * [Shapefiles](https://1drv.ms/f/s!Au6Ek2O-wSuTgbhnU8Zhh3NuTzzByw)
 #
 **[spatialAutocorrelation.R]:**
   - Does not exist at present
@@ -31,7 +31,7 @@ Kiamichi Watershed in response to water rights being sold to Oklahoma City, Okla
     install.packages()
     ```
   - [Data]:
-    * [Shapefiles](https://onedrive.live.com/?id=932BC1BE639384EE%2123656&cid=932BC1BE639384EE)
+    * [Shapefiles](https://1drv.ms/f/s!Au6Ek2O-wSuTgbhorBXxrycpL2cuUw)
 #
 
 # Authors
